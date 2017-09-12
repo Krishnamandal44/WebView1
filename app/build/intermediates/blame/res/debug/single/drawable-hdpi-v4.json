@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Krishna-project\\Sample_project\\WebView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image1.jpg",
+        "source": "D:\\Krishna-project\\Sample_project\\WebView1\\app\\src\\main\\res\\drawable-hdpi\\image1.jpg"
+    },
+    {
+        "merged": "D:\\Krishna-project\\Sample_project\\WebView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image8.jpg",
+        "source": "D:\\Krishna-project\\Sample_project\\WebView1\\app\\src\\main\\res\\drawable-hdpi\\image8.jpg"
+    }
+]
